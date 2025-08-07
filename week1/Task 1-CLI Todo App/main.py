@@ -42,7 +42,7 @@ elif choice in ("q", "quit"):
     pass
 else:
     print("Invalid choice.")'''
-#---------------------------------------------------------------------------------------------------- final codewith some ai help , i wrote the notes tho
+#---------------------------------------------------------------------------------------------------- final code with some ai help 
 
 
 parser = argparse.ArgumentParser(description="CLI app")
